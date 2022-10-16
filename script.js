@@ -1,3 +1,4 @@
+"use strict";
 const product = document.querySelectorAll(".product");
 const pList = document.querySelector("product-list");
 const search = document.getElementById("filter-item");
